@@ -1,0 +1,249 @@
+/* body{
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #fff;
+
+}
+
+body {
+    margin: 0;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+} */
+.heading1{
+
+    text-align: center;
+    font-size: 23px;
+    
+}
+
+.first {
+    display: flex;
+}
+
+body {
+    background-color: #EFF3FE;
+}
+
+
+.login-form {
+    width: 396px;
+    padding: 79px;
+    border: 0px solid #ccc;
+    border-radius: 62px;
+    box-shadow: 1 0 200px #ccc;
+    margin: 0 auto;
+    text-align: left;
+    color: #32499F;
+}
+
+h2 {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+input[type="checkbox"] {
+    margin-bottom: 20px;
+}
+
+input[type="submit"] {
+    background-color: #140558;
+    color: #fff;
+    border: none;
+    padding: 18px 29px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+a {
+    display: block;
+    text-align: center;
+}
+
+.login-container {
+    width: 100%;
+}
+
+.login-details {
+    float: left;
+    width: 50%;
+}
+
+image {
+    float: right;
+    width: 50%;
+}
+
+img,
+svg {
+    vertical-align: middle;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.jss8 undefined {
+    display: flex;
+}
+
+.jss49 {
+    color: #32499F;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.jss46 {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.MuiTypography-body1 {
+    font-size: 1rem;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.MuiTypography-root {
+    margin: 0;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.powered img{
+    width: 75px;
+    height: 15px;
+}
+form .Account {
+    font-size: 1rem;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.powered{
+    position: relative;
+    display: inline-block;
+  }
+  
+  .jss48 undefined{
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    height: 25px;
+    border: none;
+    background: none;
+    color: #333;
+    position: absolute;
+    bottom: 100px;
+  }
+   .MuiTypography-root jss49 jss46 MuiTypography-body1{
+  
+    position: fixeds;
+    position: relative;
+    color: blue;
+  } 
+  
+   .toggle-password {
+    cursor: pointer;
+    margin-left: 5px;
+  }
+/*   
+  form {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    text-align: left;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0062cc;
+  }
+  
+  */
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 56px;
+}
+  
+  
+  button:hover {
+    background-color: #0062cc;
+  }
+  
+/* " class="jss8 undefined"> */
+form i{
+    position: absolute;
+    font-size: 25px;
+    color: ;
+    margin: 15px 0 0 -45;
+}
+i.fa-lock{
+    margin-top: 35px;
+
+}
